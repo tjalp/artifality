@@ -39,6 +39,7 @@
 
   "custom": {
     "modmenu": {
+      "parent": "ignotus",
       "links": {
         "misc.artifality.discord": "https://discord.gg/DcemWeskeZ",
         "misc.artifality.wiki": "https://pinkgoosik.github.io/artifality"
